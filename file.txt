@@ -1,0 +1,11 @@
+------WebKitFormBoundaryGpf61A7Et3d4uduV
+Content-Disposition: form-data; name="file"; filename="C:\Users\Asus\Downloads\3001.jpg"
+Content-Type: image/png
+
+<_io.BufferedReader name='C:\\Users\\Asus\\Downloads\\3001.jpg'>
+
+------WebKitFormBoundaryGpf61A7Et3d4uduV
+Content-Disposition: form-data; name="category"
+
+feed
+------WebKitFormBoundaryGpf61A7Et3d4uduV--
